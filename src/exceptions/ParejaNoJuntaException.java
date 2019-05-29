@@ -13,5 +13,7 @@ package exceptions;
  */
 public class ParejaNoJuntaException extends Exception{
 
-    
+    public ParejaNoJuntaException(){
+        
+    }
 }
